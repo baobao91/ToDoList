@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+
+    <string-array name="spinnerlist">
+        <item> Important</item>
+        <item> Not Important</item>
+    </string-array>
+</resources>
